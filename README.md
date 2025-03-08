@@ -1,19 +1,10 @@
-Overview
+# DevOps Project
 
-A DevOps automation solution integrating infrastructure as code, configuration management, CI/CD, and monitoring.
+A **DevOps automation solution** integrating **Infrastructure as Code (IaC)**, **CI/CD**, and **Monitoring & Logging**.
 
-Features
-
-IaC: Terraform/CloudFormation
-
-Config Management: Ansible
-
-CI/CD: Jenkins/GitHub Actions
-
-Containerization: Docker, Kubernetes
-
-Monitoring: Prometheus, Grafana, ELK Stack
-
-
-
-
+## 🚀 Features  
+- Automates **Infrastructure as Code** using Terraform/CloudFormation.  
+- Manages configuration with **Ansible**.  
+- Implements **CI/CD** pipelines via Jenkins/GitHub Actions.  
+- Uses **Docker & Kubernetes** for containerized deployment.  
+- Integrates **Prometheus, Grafana, and ELK Stack** for monitoring.  
